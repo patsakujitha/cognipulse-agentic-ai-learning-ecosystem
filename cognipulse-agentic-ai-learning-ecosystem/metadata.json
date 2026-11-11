@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix CogniPulse - Agentic AI Learning Ecosystem",
+  "description": "Autonomous AI learning companion inspired by StudyFetch that analyzes syllabi, maps knowledge gaps, detects misconceptions, and delivers adaptive exam rescue plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
